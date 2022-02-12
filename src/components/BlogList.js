@@ -1,5 +1,4 @@
-function BlogList({ blogs, title,  }) {
-
+function BlogList({ blogs, title }) {
   return (
     <div className="blog-list">
       <h2>{title}</h2>
